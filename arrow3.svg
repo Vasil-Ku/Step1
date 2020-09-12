@@ -1,0 +1,22 @@
+<svg width="23" height="800" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null" preserveAspectRatio="xMidYMid meet">
+ <defs stroke="null">
+  <path style="vector-effect: non-scaling-stroke;" stroke="null" id="a1M3lxuruG" d="m335.1,187.27l-89.65,0l-0.02,312.56l179.28,-1.86l0.22,20.75l-200.04,2.08l-0.01,-1l-0.21,0l0,-19.64l0,-0.12l0,0l0.02,-333.39l15.26,0l0,-0.14l95.15,0l0,-17.93l89.72,28.29l-89.72,28.29l0,0l0,-17.89z"/>
+ </defs>
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="802" width="25" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <g stroke="null" id="svg_2">
+    <g stroke="null" id="svg_3">
+     <rect stroke="null" id="svg_6" height="789.92956" width="2.81484" y="9.23708" x="0" stroke-width="1.5" fill="#ffffff"/>
+     <rect stroke="null" id="svg_7" height="6.3704" width="14.07422" y="9.23708" x="2.81484" stroke-width="1.5" fill="#ffffff"/>
+     <rect stroke="null" id="svg_8" height="6.3704" width="19.70391" y="792.79624" x="2.81484" stroke-width="1.5" fill="#ffffff"/>
+     <path stroke="null" id="svg_10" d="m22.54288,13.11393l-5.79456,13.01228l0.04492,-26.12621l5.74965,13.11393z" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
